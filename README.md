@@ -1,2 +1,2 @@
 # tweetarchive-to-sqlite
-Transform Twitter JSON Archive file to SQLite
+Transform a Twitter JSON Archive file (tweets.js) to an SQLite Database.
